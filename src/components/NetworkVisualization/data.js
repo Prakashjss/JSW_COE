@@ -61,10 +61,10 @@ export const locations = [
   "Vijayanagar",
 ]
 
-// .map((name, i) => ({
-//   name,
-//   color: `hsl(${(i * 25) % 360}, 70%, 55%)`,
-// }));
+.map((name, i) => ({
+  name,
+  color: `hsl(${(i * 25) % 360}, 70%, 55%)`,
+}));
 
 export const clusters = [
   "Blast Furnace",
@@ -88,10 +88,10 @@ export const clusters = [
   "Utility & Power",
 ]
 
-// .map((name, i) => ({
-//   name,
-//   color: `hsl(${(i * 40) % 360}, 70%, 60%)`,
-// }));
+.map((name, i) => ({
+  name,
+  color: `hsl(${(i * 40) % 360}, 70%, 60%)`,
+}));
 
 
 
